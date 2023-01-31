@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>原神sf教程</title>
+      <link href="/2023/01/31/%E5%8E%9F%E7%A5%9Esf%E6%95%99%E7%A8%8B/"/>
+      <url>/2023/01/31/%E5%8E%9F%E7%A5%9Esf%E6%95%99%E7%A8%8B/</url>
+      
+        <content type="html"><![CDATA[<h1 id="下载与解压所需要的东西"><a href="#下载与解压所需要的东西" class="headerlink" title="下载与解压所需要的东西"></a>下载与解压所需要的东西</h1><p>下载群文件“原神sf要下载的东西”里面的东西</p><img src="https://i.328888.xyz/2023/01/31/8BHLN.png" class=""><p>下载完之后并且解压出来</p><h1 id="启动服务、代理和创建账号"><a href="#启动服务、代理和创建账号" class="headerlink" title="启动服务、代理和创建账号"></a>启动服务、代理和创建账号</h1><p>打开“3.4一键端ByPDMengQAQ-紫梦”文件夹（<strong>这是服务器文件夹里面的东西禁止改名或删除，否则有可能就用不了了</strong>）</p><h2 id="启动服务"><a href="#启动服务" class="headerlink" title="启动服务"></a>启动服务</h2><p>打开打开“服务启动”启动服务器(<strong>启动服务器的时候关闭所有加速器和杀毒软件</strong>)</p><img src="https://i.328888.xyz/2023/01/31/8BscE.png" class=""><p>这个样子就是启动成功了</p><h2 id="代理"><a href="#代理" class="headerlink" title="代理"></a>代理</h2><p>打开刚刚解压的那个“米哈游代理转向”文件夹<br><strong>以管理员运行</strong>“米哈游代理转向”应用程序<br>点服务启动，里面的东西都不需要改</p><img src="https://i.328888.xyz/2023/01/31/8Bgnp.png" class=""><h2 id="创建账号"><a href="#创建账号" class="headerlink" title="创建账号"></a>创建账号</h2><p>打开刚刚“服务启动”弹出的cmd窗口<br>在里面输入 account create 用户名 uid</p><img src="https://i.328888.xyz/2023/01/31/8XlI3.png" class=""><p>这个样子就是创建成功了</p><h2 id="打补丁以及启动游戏"><a href="#打补丁以及启动游戏" class="headerlink" title="打补丁以及启动游戏"></a>打补丁以及启动游戏</h2><p>把刚刚解压的“原神3.0~3.4通用补丁”里面的东西放到原神根目录</p><img src="https://i.328888.xyz/2023/01/31/8Xyqw.png" class=""><p>弄好之后直接打开游戏就行了，账号用你们刚刚创建的那个，密码随便输就行</p><h1 id="获取角色及物品"><a href="#获取角色及物品" class="headerlink" title="获取角色及物品"></a>获取角色及物品</h1><p>进入游戏打开好友列表会有一位好友<br>把指令发给他就行了<br>查看指令可以去看服务器文件夹里面的”Grasscutter tools “这个东西</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>崩坏：星穹铁道sf教程(未做完)</title>
       <link href="/2023/01/28/2023-01-28-%E5%B4%A9%E5%9D%8F%EF%BC%9A%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%E6%95%99%E7%A8%8B/"/>
       <url>/2023/01/28/2023-01-28-%E5%B4%A9%E5%9D%8F%EF%BC%9A%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%E6%95%99%E7%A8%8B/</url>
